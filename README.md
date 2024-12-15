@@ -28,3 +28,9 @@ pip install -r requirements.txt
 ```bash
 uvicorn app.main:app --reload
 ```
+
+or 
+
+```bash
+python app/server.py
+```
